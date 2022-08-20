@@ -1,6 +1,10 @@
-# 🧪 Jest Notes - How does Jest works?
+# 🧪 Testing Notes
 
-![before](./.github/thumbnail.png)
+## 📚 Libraries studied
+- Jest
+- React Testing Library
+- Enzyme
+
 
 ## ✍ About this repository
 
